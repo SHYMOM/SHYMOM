@@ -8,7 +8,7 @@ I'm a **Computer Science and Engineering student** passionate about **app develo
 - Building a solid foundation in **full-stack development**
 
 ### 🔧 Technologies & Skills:
-- **Languages**: [COMING SOON]
+- **Languages**: JAVA, C++
 - **Frameworks & Tools**: [COMING SOON]
 - **Other Interests**: Cloud computing, AI/ML, cybersecurity
 

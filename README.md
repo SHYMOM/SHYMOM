@@ -8,11 +8,11 @@ I'm a **Computer Science and Engineering student** passionate about **app develo
 - Building a solid foundation in **full-stack development**
 
 ### 🔧 Technologies & Skills:
-- **Languages**: JAVA, C++
+- **Languages**: JAVA, C++, C#, SQL
 - **Frameworks & Tools**: [COMING SOON]
-- **Other Interests**: Cloud computing, AI/ML, cybersecurity
+- **Other Interests**: Cloud computing, AI/ML, CyberSecurity
 
 ### 📫 How to Reach Me:
-- LinkedIn: [COMING SOON]
+- LinkedIn: [Visit LinkedIn Profile](https://www.linkedin.com/in/sheikhshymom)
 - Email: www.shymom124@gmail.com
-- Portfolio: [COMING SOON]
+- Portfolio: [Visit Portfolio](https://shymom.github.io/portfolio_website/)
